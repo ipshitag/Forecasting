@@ -1,6 +1,14 @@
 # Forecasting
 Notes, codes and other materials covered in MDS341A
 
+# Index
+
+1. [Definitions](https://github.com/ipshitag/Forecasting#definition) </li>
+2. [What to forecast?](https://github.com/ipshitag/Forecasting#what-to-forecast)
+3. [Forecasting data and methods](https://github.com/ipshitag/Forecasting#forecasting-data-and-methods)
+4. [Intro to time series](https://github.com/ipshitag/Forecasting#intro-to-time-series)
+5. [Steps in Forecasting](https://github.com/ipshitag/Forecasting#steps-in-forecasting)
+
 # Definition
 
 Forecasting is a technique which uses historical data to make informed *predictions* of future trends. Forecasts can be made of different time durations, like,
