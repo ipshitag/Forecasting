@@ -3,6 +3,7 @@ Notes, codes and other materials covered in MDS341A
 
 # Index
 
+### Introductions
 1. [Definitions](https://github.com/ipshitag/Forecasting#definition) </li>
 2. [What to forecast?](https://github.com/ipshitag/Forecasting#what-to-forecast)
 3. [Forecasting data and methods](https://github.com/ipshitag/Forecasting#forecasting-data-and-methods)
