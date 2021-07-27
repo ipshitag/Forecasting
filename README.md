@@ -135,4 +135,3 @@ Each models is itself *an artificial construct that is based on a set of assumpt
 
 Once a model has been selected and the parameters are estimated, the model can be used to make forecasts. The *performance* of the model can be properly evaluated after the data for the forecast period is available.
 
-:shipit:
